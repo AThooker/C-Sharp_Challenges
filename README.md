@@ -1,13 +1,17 @@
 # Sobering Seth's Trials and Tribulations
 
 There will be three levels of challenges that you will complete in order. Gradually getting more and more difficult. 
+The order is as follows:
+1. LearnAddition
+2. RockPaperScissors
+3. Lottery
 These challenges are going to combine the things you've learned in the last week.
 
 The key to really learning programming is to actually DO IT and not just watch videos and read about it.
 
 > "Talk is cheap. Show me the code." -Linus Torvalds
 
-This is one of my favorite quotes in Computer Science. It's easy to talk about how great a piece of software can be and how it should function, but you will shocked about how much work it takes to actually implement the solution vs the work of designing it and just thinking of it conceptually . So going from conceptualizing ->  Functional program.
+This is one of my favorite quotes in Computer Science. It's easy to talk about how great a piece of software can be and how it should function, but you will be shocked about how much work it takes to actually implement the solution compared to the work of designing it and thinking about it conceptually. So going from conceptualizing ->  Functional program is our goal here.
 
 ---
 
